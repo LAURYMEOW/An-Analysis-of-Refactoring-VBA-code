@@ -17,7 +17,7 @@ The main challenge we face is to delve into the technical aspects of the code so
 The main modifications that were made to the code with respect to the original were the following:
 
 1. Integrate everything in a single code: the update time and the format for the cells were added to the code of the analysis of all the actions.
-2. 
+
 ![Timer in the code](https://github.com/LAURYMEOW/An-Analysis-of-Refactoring-VBA-code/blob/main/Timer%20in%20the%20code.png)
 
 ![Formatting in the code](https://github.com/LAURYMEOW/An-Analysis-of-Refactoring-VBA-code/blob/main/Formatting%20in%20the%20code.png)
@@ -32,7 +32,7 @@ However, it is important to say that this difference is only noticeable if you p
 - We change the property to call the cells from .Value to .Value2 that gives the underlying value of the cell.
 As it involves no formatting, .Value2 is faster than .Value. .Value2 is faster than .Value when processing numbers (there is no significant difference with text).
 
-![Value2 property](path/to/Value2 property.png)
+![Value2 property](https://github.com/LAURYMEOW/An-Analysis-of-Refactoring-VBA-code/blob/main/Value2%20property.png)
 
 3. We reduced the number of lines by listing the new variables in a single statement using commas.
 
