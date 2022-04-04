@@ -52,12 +52,12 @@ In the following image you can see the outputs with the refactored code for both
 
 Regarding the execution time, we had the following times registered for the original code:
 
-![Module2_VBA_Time](path/to/Module2_VBA_Time.png)
+![Module2_VBA_Time](https://github.com/LAURYMEOW/An-Analysis-of-Refactoring-VBA-code/blob/main/Module2_VBA_Time.png)
 
 For the refactored code we have:
 
-![VBA_Challenge_2017](path/to/VBA_Challenge_2017.png)
-![VBA_Challenge_2018](path/to/VBA_Challenge_2018.png)
+![VBA_Challenge_2017](https://github.com/LAURYMEOW/An-Analysis-of-Refactoring-VBA-code/blob/main/VBA_Challenge_2017.png)
+![VBA_Challenge_2018](https://github.com/LAURYMEOW/An-Analysis-of-Refactoring-VBA-code/blob/main/VBA_Challenge_2018.png)
 
 The comparison allows to observe an improvement. It should be noted that when carrying out the activity I realized that the times change every time I carry out the update. This means that it is a random indicator.
 In addition, it also depends on the level of fatigue of the machine, that is, how hot are the electronic components of the machine that I am using.
