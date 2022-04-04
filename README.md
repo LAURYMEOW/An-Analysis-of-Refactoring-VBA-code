@@ -17,7 +17,9 @@ The main challenge we face is to delve into the technical aspects of the code so
 The main modifications that were made to the code with respect to the original were the following:
 
 1. Integrate everything in a single code: the update time and the format for the cells were added to the code of the analysis of all the actions.
-![Timer in the code](path/to/Timer in the code.png)
+2. 
+![Timer in the code](https://github.com/LAURYMEOW/An-Analysis-of-Refactoring-VBA-code/blob/main/Timer%20in%20the%20code.png)
+
 ![Formatting in the code](path/to/Formatting in the code.png)
 
 2. Changing the type of variables without altering their participation in the code:
