@@ -62,7 +62,7 @@ For the refactored code we have:
 The comparison allows to observe an improvement. It should be noted that when carrying out the activity I realized that the times change every time I carry out the update. This means that it is a random indicator.
 In addition, it also depends on the level of fatigue of the machine, that is, how hot are the electronic components of the machine that I am using.
 
-##Analysis of the obtained results
+## Analysis of the obtained results
 
 Regarding the data we have the following:
 
@@ -73,7 +73,7 @@ With the information we have at hand, we can recommend Steve to propose to his p
 It is recommended to carry out an analysis with more years of comparison to see the behavior pattern of the shares and give a more robust proposal. 
 
 
-![All Stocks Returns](path/to/All Stocks Returns.png)
+![All Stocks Returns](https://github.com/LAURYMEOW/An-Analysis-of-Refactoring-VBA-code/blob/main/All%20Stocks%20Returns.png)
 
 
 ## Summary: In a summary statement, address the following questions.
