@@ -20,7 +20,7 @@ The main modifications that were made to the code with respect to the original w
 2. 
 ![Timer in the code](https://github.com/LAURYMEOW/An-Analysis-of-Refactoring-VBA-code/blob/main/Timer%20in%20the%20code.png)
 
-![Formatting in the code](https://github.com/LAURYMEOW/An-Analysis-of-Refactoring-VBA-code/blob/main/Formatting%20in%20the%20code.png.png)
+![Formatting in the code](https://github.com/LAURYMEOW/An-Analysis-of-Refactoring-VBA-code/blob/main/Formatting%20in%20the%20code.png)
 
 2. Changing the type of variables without altering their participation in the code:
 
