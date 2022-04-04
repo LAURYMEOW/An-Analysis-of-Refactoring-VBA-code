@@ -36,7 +36,7 @@ As it involves no formatting, .Value2 is faster than .Value. .Value2 is faster t
 
 3. We reduced the number of lines by listing the new variables in a single statement using commas.
 
-![List variables using commas](path/to/List variables using commas.png)
+![List variables using commas](https://github.com/LAURYMEOW/An-Analysis-of-Refactoring-VBA-code/blob/main/List%20variables%20using%20commas.png)
 
 4. We use the With statement to format the same range of variables. The above Reduces memory space.
 
