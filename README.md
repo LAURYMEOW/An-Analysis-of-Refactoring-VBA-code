@@ -47,8 +47,8 @@ Once the above was done, we verified that the outputs did not change with respec
 
 In the following image you can see the outputs with the refactored code for both years of analysis.
 
-![Outputs 2017](Outputs 2017.png)
-![Outputs 2018](Outputs 2018.png)
+![Outputs 2017](https://github.com/LAURYMEOW/An-Analysis-of-Refactoring-VBA-code/blob/main/Outputs%202017.png)
+![Outputs 2018](https://github.com/LAURYMEOW/An-Analysis-of-Refactoring-VBA-code/blob/main/Outputs%202018.png)
 
 Regarding the execution time, we had the following times registered for the original code:
 
