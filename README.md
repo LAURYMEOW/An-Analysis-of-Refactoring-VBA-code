@@ -40,7 +40,7 @@ As it involves no formatting, .Value2 is faster than .Value. .Value2 is faster t
 
 4. We use the With statement to format the same range of variables. The above Reduces memory space.
 
-![With statement in the code](With statement in the code.png)
+![With statement in the code](https://github.com/LAURYMEOW/An-Analysis-of-Refactoring-VBA-code/blob/main/With%20statement%20in%20the%20code.png)
 
 
 Once the above was done, we verified that the outputs did not change with respect to the original code and the execution times were compared.
